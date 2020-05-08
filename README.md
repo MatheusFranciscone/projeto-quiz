@@ -1,4 +1,4 @@
-![alt text](http://url/imagens-quiz/image-question.png)
+![](imagens-quiz/image-question.png)
 
 # Projeto Quiz 
  Implementação da orientação à objetos em um quiz desenvolvido para diversão e também estudos.
