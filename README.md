@@ -1,4 +1,6 @@
-![](imagens-quiz/image-question.png)
+![](imagens-quiz/image-question.png) 
+![test](https://github.com/favicon.ico)
+<img src="https://github.com/favicon.ico" width="48">
 
 # Projeto Quiz 
  Implementação da orientação à objetos em um quiz desenvolvido para diversão e também estudos.
