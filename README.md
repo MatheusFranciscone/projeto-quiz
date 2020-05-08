@@ -1,6 +1,6 @@
-![](imagens-quiz/image-question.png) 
-![test](https://github.com/favicon.ico)
-<img src="https://github.com/favicon.ico" width="48">
+
+
+<center><img src="https://github.com/MatheusFranciscone/projeto-quiz/blob/master/imagens-quiz/image-question.png" width="200"></center>
 
 # Projeto Quiz 
  Implementação da orientação à objetos em um quiz desenvolvido para diversão e também estudos.
