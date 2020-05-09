@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://github.com/MatheusFranciscone/projeto-quiz/blob/master/imagens-quiz/image-question.png" width="150">
+<img src="https://github.com/MatheusFranciscone/projeto-quiz/blob/master/imagens-quiz/image-icon.png">
 </p>
 
 # Projeto Quiz 
