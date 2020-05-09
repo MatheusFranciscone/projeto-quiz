@@ -4,9 +4,9 @@
 </p>
 
 # Projeto Quiz 
- Implementação da orientação à objetos em um quiz desenvolvido para diversão e também estudos.
- 
-   Estou aberto a críticas construtivas, melhorias no código e também novas perguntas para o quiz!
+Implementação da orientação a objetos em um quiz desenvolvido para diversão, e também estudo.
+
+Estou aberto a críticas construtivas, melhorias no código, bem como novas perguntas para o quiz!
  
   # O projeto foi desenvolvido através da linguagem: 
  * C#
