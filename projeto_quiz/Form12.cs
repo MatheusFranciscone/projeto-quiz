@@ -21,20 +21,23 @@ namespace projeto_quiz
         {
             if ((Dados.Acerto >= 4) && (Dados.Acerto <= 7))
             {
-                rtb_Resultado.Text = "Acertos: " + Dados.Acerto + "\nErros: " + Dados.Erro + "\nPrecisa melhorar...";
+                rtb_Resultado.Text = "Acertos: " + Dados.Acerto + "\nErros: " + Dados.Erro + "\nPrecisa melhorar..." + "\nSua Pontuação final: " + (Dados.PontAcerto + Dados.PontErro);
             }
             if ((Dados.Acerto >= 0) && (Dados.Acerto <= 3))
             {
-                rtb_Resultado.Text = "Acertos: " + Dados.Acerto + "\nErros: " + Dados.Erro + "\nVocê realmente precisa melhorar...";
+                rtb_Resultado.Text = "Acertos: " + Dados.Acerto + "\nErros: " + Dados.Erro + "\nVocê realmente precisa melhorar..." + "\nSua Pontuação final: " + (Dados.PontAcerto + Dados.PontErro);
             }
             if ((Dados.Acerto >= 7) && (Dados.Acerto <= 9))
             {
-                rtb_Resultado.Text = "Acertos: " + Dados.Acerto + "\nErros: " + Dados.Erro + "\nMuito bem, você está em um ótimo nivel!";
+                rtb_Resultado.Text = "Acertos: " + Dados.Acerto + "\nErros: " + Dados.Erro + "\nMuito bem, você está em um ótimo nivel!" + "\nSua Pontuação final: " + (Dados.PontAcerto + Dados.PontErro);
             }
             if (Dados.Acerto == 10)
             {
-                rtb_Resultado.Text = "Acertos: " + Dados.Acerto + "\nErros: " + Dados.Erro + "\nParabéns, você foi EXCELENTE!";
+                rtb_Resultado.Text = "Acertos: " + Dados.Acerto + "\nErros: " + Dados.Erro + "\nParabéns, você foi EXCELENTE!" + "\nSua Pontuação final: " + (Dados.PontAcerto + Dados.PontErro);
             }
+
+
+
         }
 
         private void btn_Refazer_Click(object sender, EventArgs e)
@@ -44,6 +47,8 @@ namespace projeto_quiz
             this.Hide();
             Dados.Acerto = 0;
             Dados.Erro = 0;
+            Dados.PontAcerto = 0;
+            Dados.PontErro = 0;
         }
 
         private void btn_Sair_Click(object sender, EventArgs e)
