@@ -14,7 +14,6 @@ namespace projeto_quiz
         public static int Erro = 0;
         public static int PontAcerto = 0;
         public static int PontErro = 0;
-        public static int PontAcertoeErro = 0;
 
         //Acertos e Erros
         public static void Acertou()
