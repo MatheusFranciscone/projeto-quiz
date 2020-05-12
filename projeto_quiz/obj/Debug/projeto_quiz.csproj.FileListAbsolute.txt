@@ -19,3 +19,4 @@ C:\Users\franc\OneDrive\Documentos\MeusProjetos\projeto-quiz\projeto_quiz\obj\De
 C:\Users\franc\OneDrive\Documentos\MeusProjetos\projeto-quiz\projeto_quiz\obj\Debug\projeto_quiz.frm_Perg9.resources
 C:\Users\franc\OneDrive\Documentos\MeusProjetos\projeto-quiz\projeto_quiz\obj\Debug\projeto_quiz.frm_Perg10.resources
 C:\Users\franc\OneDrive\Documentos\MeusProjetos\projeto-quiz\projeto_quiz\obj\Debug\projeto_quiz.frm_Resultado.resources
+C:\Users\franc\OneDrive\Documentos\MeusProjetos\projeto-quiz\projeto_quiz\obj\Debug\projeto_quiz.frm_pontuacao.resources

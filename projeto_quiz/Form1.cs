@@ -24,7 +24,7 @@ namespace projeto_quiz
 
         private void btn_Sim_Click(object sender, EventArgs e)
         {
-            frm_Perg1 q2 = new frm_Perg1();
+            frm_pontuacao q2 = new frm_pontuacao();
             q2.Show();
             this.Hide();
         }

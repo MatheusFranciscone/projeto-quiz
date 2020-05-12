@@ -22,10 +22,12 @@ namespace projeto_quiz
             if (rdb_Perg5Resp3.Checked)
             {
                 Dados.Acertou();
+                Dados.PontAcertou();
             }
             else
             {
                 Dados.Errou();
+                Dados.PontErrou();
             }
 
             frm_Perg6 q7 = new frm_Perg6();
